@@ -1,0 +1,44 @@
+
+
+NOTE: first read all the files in the dokbase directory
+	or make sure to have understood enough for a useful contribution		 
+
+
+QUICK INTRO: 
+	word building is based on verbal roots 
+
+	sample: -take a common verb and think of an easy sentence 
+		(adjectives count as verbs) 
+		
+		- associate it with one or two common English words - preferable 
+		  not on this list 
+
+		fallen from above --> hail, meteroide,[[bird shit]]
+
+		wandering above --> cloud 
+
+		keeping for later --> brain, storage 
+
+		made someone appear --> mother,father
+	
+
+FOR BEGINNERS OR HOW TO EASILY CONTRIBUTE: 
+	fork and send a pull request of this file with just 
+	one added new word , you think is essential and could 
+	be of further use 
+	(we are building a base for conlanging so a word or concept
+	which having a chance to be reused by someone etc.)	
+
+FUTURE PLANS: after this file has enough entries we can process it further
+		to serve the intended purpose of this project 
+
+SUBMITTED WORDS SO FAR: 
+
+	fallen from above --> hail, meteroide,[[bird shit]]
+
+	wandering above --> cloud 
+
+	keeping for later --> brain, storage 
+
+	made someone appear --> mother,father
+
