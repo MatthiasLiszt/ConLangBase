@@ -3,10 +3,6 @@
 
 NOTE: This is an absolute beginners project 
 
-LICENSE: I plan to put it under the same license as projects made 
-	in the Free Code Camp Community. Currently I do not know
-	which license they use. 
-
 PURPOSE: * encouraging absolute beginners, newbies etc. 
 		to contribute and participate in their first github project
 
