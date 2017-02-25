@@ -1,0 +1,277 @@
+
+
+A minimalistic approach using idiotic endings for Word derivation version 1 
+===========================================================================
+
+Many conlangers stumble over grammar and word derivation. This text should help
+you out with it. 
+
+I propose a very simple approach with just 256 or 16x16 root words. For ease the 
+root words can also be used as pronouns. 
+
+Out of those 256 root words 64 idiotic endings are formed which are used for 
+word derivation only. It is calculated that this 64 idotic endings or idiotics 
+would be enough to form enough derivations so that the language can be useful. 
+
+This is based on the fact that the most used 5000 words make far more than 95% 
+of every day speech. 
+
+So this would be theoretically 2^14 or around 16 000 possible derivations where 
+only 5000 or even less are used. There would be no confusion whether a word is 
+a derivation or a phrase which is the case in other common conlangs. 
+
+The verb of every phrase should help to narrow the meaning of the used nouns 
+and pronouns so that there would be no problems assigning multiple meanings to 
+one word derivation. 
+
+I recommend always starting every statement with a verb because I think it would 
+ease up things. 
+
+I discourage the use of real adjectives but I recommend use of verb like or predicative
+adjectives like "is green" and so on. 
+
+The use of pronouns should replace the use of articles and R-expressions. 
+
+
+A minimalistic phonem/phonology approach
+========================================
+
+This approach or proposal is yet without the use of phonological rules. 
+
+I propose the use of 8 consonants and three vowels. 
+A stressed or accented vowel is made up of two basic vowels. 
+
+Thus I propose the scheme : CVVC ( C= consonant , V= vowel) for accented syllabels 
+
+For root words I propose thus CVVC(V) and for the idiotic endings CVC. 
+
+CVC would give 8*8*3 or 192 possible idiotic endings , but only 64 would be used 
+thus only around a third. 
+
+As can be calculated there are enough free unused combinations left. 
+
+For convenience I am going to use the following characters for the eight consonants: 
+
+		p t k s m n l j 
+
+and a , i , u for the vowels ...
+
+
+A minimalistic grammar approach
+===============================
+
+The simplest grammar would be Verb plus Argument. 
+I recommend usage of default parameters ... Thus "I" , "you" and so on 
+are set by default and can be changed with statements or phrases. 
+
+So a simple statement can consist of : 
+
+                    Verb derived-word (= root word + derived ending) 
+                    
+                    Verb pronoun ( every pronoun is a root word) 
+
+Commands and questions can be declared with phrases. 
+
+		    *: Ask question.  (indicates that the next phrase is a command) 
+
+                    *: Command this. (indicates that the next phrase is a command) 
+
+Samples of default parameters : 
+
+		    *: Give food. ( 'to you' and "I" are the default parameters) 
+
+Everything else like time and place and so on must be made understood with separate phrases. 
+
+Time can easily be expressed with a statement like : happened yesterday. 
+
+
+So what to do with Negation
+===========================
+
+You may ask so how is negation done using only the above mentionend word order. 
+
+Sometimes negation can be done on the object. 
+
+		Don't speak ! ==> Say nothing!. 
+		
+		Don't move ! ==> Go nowhere! 
+
+However this isn't sometimes very satisfying. For instance you want to say to a child
+"don't touch the dog!" or "don't touch the stove!"  because "touch nothing!" would not 
+cover the intended meaning. 
+
+So the best choice would be to make a new verb with the meaning "don't touch" and the problem
+be solved. It is proven that negated verbs and sentences are more difficult to understand than
+positive formulated sentences. 
+
+There is also another way round which is basically just saying "the following statement is not true"
+or "the following statements are not true". 
+
+		You don't speak. ==> Following not true. You speak. 
+
+
+On reduced pronouns and sentence structure
+==========================================
+
+
+I am still not quite satisfied with having 256 possible pronouns , so I propose to reduce 
+it to around 32, which would still be sufficient and more than many natural languages use anyway. 
+
+The other reason I was not satisfied with the 256 pronouns was , that those pronouns would use 
+stress vowels and I think it would be better when there are more phrases with only on stressed vowel. 
+
+I suggest to use 32 of the 64 idiotics as pronouns too. 
+
+
+So a sentence would consists of : 
+
+				CVVC(V) CVC CVC
+
+or 
+				CVVC(V) CVC CVVC(V) CVC
+
+or in other words : <root-word> <idiotic> <pronoun>   or <root-word> <idiotic> <root-word> <idiotic>
+
+Because phrases have that simple structure it would be practical to write all words together in them
+without spaces. The structure can easily be understood because of language structure. 
+
+A verb must end with an idiotic to avoid confusion. 
+
+
+An Abbrevation Ending
+=====================
+
+Sometimes it would come handy to use an abbrevation. Such a case would be when one wants to say 
+"Yes" or "No!". So instead of saying >>paulitatnis<< (=the following is not true. ) one may want 
+to say just simply "pau" or "po".
+
+To avoid confusion one can use the abbrevation ending "sis" which can be phonolgically shortened 
+to just "shh". So instead of saying "paulitat..." one would just say "poshh" or "paushh" 
+and this was it. 
+
+
+On foreign words and names
+==========================
+
+There should be a way to introduce foreign names and toponyms and so on which would hurt 
+the language structure. 
+
+I suggest a verb with the meaning "it is pronounced like" or "this is pronounced" like 
+would be sufficient. 
+
+I apply this to the previous mentioned. 
+
+			kauji-kun mas. sauke-tat "Moscow". 
+
+translation:            go-to mas(=pronoun). pronounced "Moscow". 
+
+this could be written applying mentioned rules as : 
+
+			kaujikunmas sauketat Moscow 
+
+Capitalization being only used for words hurting the language structure. 
+
+
+Translations of the samples
+===========================
+
+Verb 
+kauji-kun going/travelling to a city (paramater or pronoun refers to city or place name) 
+kiimi-man  give (to me) ... (parameter or pronoun refers to small hand held object) 
+kiisi-jun ask something ... (pronoun refers to first word in question) 
+kauma-jun command something ...(pronoun refers to first word in command) 
+maupu-lus moving or going to somewhere close (pronoun refers to something nearby) 
+pauli-tat the following is not true 
+taili-jun tell something, say something (to me) 
+
+Pronouns 
+jam ... something eatable,food 
+kit ... something,anything,what? 
+nik ... nothing 
+nis ... the following
+
+
+		Give me food ! -> kiimimanjam 
+		Don't ask me anything ! -> kiisijunnik 
+		Don't move ! -> maupulusnik
+		Shut up! (don't speak!) -> tailijunnik
+                You don't speak. -> paulitatnis tailijunkit 
+
+
+
+
+On phonological rules 
+=====================
+
+Let's say we want more sounds so we define that "au" is pronounced like 
+a stressed "o" like in open, "ki" should be pronounced "ch" like in "chew" 
+, "ai" to pronounced "e" like in "get" , "si" to be pronounced "sh" and  
+"pu" to be pronounced just "f". 
+Further we want phrase final "k" to be pronounced like the German sound
+in bach or the Russian word "ikh" and write it with the IPA symbol x. 
+Also we want the sequence "iju" to be pronounced "ju" like in "you" but
+with a short "u". 
+
+
+So the following phrases would be read: 
+
+			kiimimanjam -> ĉímimanjam 
+			kiisijunnik -> ĉíŝjunnix
+			maupulusnik -> móflusnix 
+			tailijunnik -> téljunnix 
+
+Further phonological rules can be applied like distance assimilation 
+and reduction. 
+
+When the same vowel appears in the last two unstressed syllabels 
+one has to be omitted. Thus -manjam would be reduced to -mnjam. 
+
+			ĉímimanjam -> ĉímimnjam 
+
+When "u" is followed by "i" in the next unstressed syllabel it is changed
+to an umlaut like French "u" in "tu" (IPA symbol y). I prefer Hungarian,
+German ,Turkish ü for that sound. 
+
+			ĉíŝjunnix -> ĉíŝjünnix 
+			móflusnix -> móflüsnix 
+			téljunnix -> téljünnix 
+
+
+
+
+
+
+
+
+
+
+				
+			
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

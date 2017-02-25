@@ -1,0 +1,201 @@
+
+
+
+Second version of the idiotic minimalist approach 
+=================================================
+
+Yesterday I found out that it seems somewhat illogical to use the 
+
+		CVVCV CVC 
+
+pattern for nouns. It would be better to derive it from the more 
+primitive <verb><pronoun> or 
+
+			CVVCV CVC CVC
+
+pattern. So instead of the sentence pattern of version one which was
+
+			CVVCV CVC CVVCV CVC
+
+there would be  used only  
+
+			CVVCV CVC CVVCV CVC CVC
+
+which at the first glance just looks longer but has the advantage 
+that the other basic sentence structure 
+
+			CVVCV CVC CVC
+
+or <verb><prounoun> is incorporated in the second possible sentence 
+structure. 
+
+Thus a noun is basically a sentence of the structure <verb><pronoun>. 
+
+It is obvious that this makes the building of much more nouns possible,
+but the motivation behind this was another one - as was already mentioned. 
+
+
+Word building using synonyms 
+============================
+
+Sometimes in our languages we want to describe a thing we saw, but find out 
+we got no fitting word for it , so we just use two. 
+
+" A guest or customer" , "A dog or fox " , " A colleague or friend" ,
+" A bubble or ball"  ... and so on ... 
+
+Usually that is not thought of as word building but it can be used as such. 
+
+So in case the known techniques for word building in the language or not sufficient
+this technique can be applied. 
+
+
+And yet another extension to the sentence scheme
+================================================
+
+Somehow one might it think that the existing to schemes of sentences 
+<verb><noun> and <verb><pronoun> are not enough and 
+one or two other version would be practical sometimes. 
+
+So the following schemes : 
+			   CVVCV CVC CVC+V 
+                          V+CVVCV CVC CVC
+                           CVVCV CVC CVC+V
+
+So a vowel at the end of the phrase could be used for "case marking". 
+
+This would be practical as it could reduce the needed number of verbs 
+and shorten statements which otherwise would have required two sentences 
+to just one. 
+		tailisannim = (the following) is or was told by the doglike animal 
+
+adding an "u" could make the "nim" pronoun for doglike animal an object case 
+so that the phrase 
+
+		tailisannimu 
+
+would mean  : (the following) is or was told TO the doglike animal .
+
+adding an "i" could even effect the whole phrase in such a way that it would mean 
+"it is thought of ..." or " if <statement> ..." . 
+A possible sample : 
+
+		 tailisannimi = When/If the doglike animal would say the following 
+				or "It is thought the doglike animal would say the following" . 
+
+Suppose the added "i" would mean an "if or when" statement then a "then"-clause would be expected. 
+The vowel "a" could be used for this or for the idea that something is caused or made to do. 
+
+		tailisannima = ...,then the fox would tell the following 
+			       The doglike animal is or was made telling the following. 
+
+So in other words two sentences like 
+					tailisannimi tailisansika 
+
+would be interpreted as a if-then-statement meaning something like 
+
+			If the doglike animal tells the following , then someone will tell the following (in response). 			  	  	
+
+
+And what about putting vowels in front of the statement. One practical use of that could be negation
+because negation with "paulitatnis" (the following is not true) or even the abbreviated "paulisis" are 
+not so short like a vowel in front. 
+
+Possible suggestion could be : "a" in front be used for negation
+			       "i" in front be used for marking that the statement is doubted, unlikely, suggested etc. 
+			       "u" in front be used for making the statement a name in the vocative case
+
+Here's a possible sample with some of the used. 
+
+			upaaputulsan itailisannimu 
+
+	possible translation : " Oh person who hurts or kills animals or person with a tool ! (=hunter) 
+				 It is unlikely or doubted that to the doglike animal would 
+				 have been told or is said the following."  	
+
+
+Consequences of Version 2 
+=========================
+
+The noun word building scheme of version one seems to be more illogical and not fitting the 
+noun word building scheme of version two. It must be tested or evaluated if the old verb-noun
+sentence structure is compatible with the new one so that both can coexist and it would not 
+be a problem to have two noun word building schemes. 
+
+The first noun word building scheme which was basically root+idiotics(idiotic ending) really 
+looked quite simple at the first glance and allowed for thousands of words to be constructed 
+that way. 
+
+The problem with the first word building scheme was something commonly called logic in that 
+the nouns were not derived from verbal roots but rather a noun meaning was applied to the 
+verbal roots. To be better understandable I give a sample in the old scheme and try to apply 
+the new scheme on it. 
+
+           niimalus ( niima = animal,doglike beast , +lus idiotic ending which could mean red) 
+
+The illogical thing here is that usually in the language verbs or verb like adjectives come first
+and that the first nound word building scheme in the above sample really hurts that in giving a 
+construction like " doglike animal is red " or "doglike animal which is red " . 
+
+So how would this be in the new version or version two. 
+First we need a verb not yet in the corpus which would mean " ... is red " . 
+I use "luusasan" here for that purpose. So using that we get 
+
+			luusasannim ( nim = pronoun for doglike animal ) 
+
+or practical a sentence which means "The doglike animal is red" which would have the meaning "fox" 
+or "red doglike animal" in the newly introduced sentence structure. 
+
+This seems for me to have the advantage that a sentence structure once learned used and practiced 
+can be extended in use and no new thing or concept has to be learned. 
+
+I wonder if the pronoun "lus" or "nim" would then be prefered to refer to "luusasanim".
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

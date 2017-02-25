@@ -1,0 +1,108 @@
+
+
+Third version of the idiotics mininmalist approach conlang
+==========================================================
+
+I was not quite satisfied with patterns in the second version
+for the seemed too narrow and allowed too less possibilities. 
+
+The strategy should really be "allow much more" so that "much less"
+can be used. And for this I decided to replace the patterns 
+in the version two with the following patterns. 
+
+		1. (prefix) verb+idiotic pronoun (case vowel)  
+		2. (circumfix-prefix) verb+idiotic (circumfix-infix) pronoun (case vowel) 
+
+and for the long patterns 
+
+		1. (prefix) verb+idiotic noun  
+		2. (circumfix-prefix) verb+idiotic (circumfix-infix) noun 
+
+
+So as with version two the noun derives from the short patterns which 
+were basically >> verb+idiotic pronoun<< and are now extended to 
+>>(prefix) verb+idiotic pronoun<< and the circumfixed version. 
+
+The brackets mean that the prefix and in the second pattern the circumfix
+can be dropped , so that it is basically the old pattern. 
+
+I thought of using 6 prefixes and for the circumfixes I thought of indicating
+them by two circumfix-prefixes and then having another 64 circumfix-infixes 
+which would allow quite a lot of word building , word derivation and special 
+grammatical or so functions. 
+
+So for the second short pattern that would be 128 ( 2 * 64) infixes , 
+256 verbal roots , 64 idiotics and 32 pronouns, allowing 128 * 256 * 64 * 32 
+or 2^26 ( ~ 67 million ) possible combinations. So probably less than 0.1 
+or even 0.01 % would probably be used.
+
+The case vowel as it is called now was a feature introduced in version 2 
+which has the needy effect in reducing the number of required verbal root 
+derivations, because it is possible to use the same verbal derivation
+(=verb+idiotic) for both passive and active meaning.
+
+I thought the given sample was : 
+			tailisannim ... The following was told by the dog like animal. 
+			tailisannimu ... The following was told to the dog like animal. 
+
+Because it is basically a vowel added at the end of the statement I just call it a case vowel.
+
+So to sum it up I give the possible long and short patterns once again. 
+
+short patterns 
+
+		 1.. CVVCV CVC CVC (without prefix;introduced in version 1 ) 
+                 1a. CVVCV CVC CVC V (like the one above but with case-vowel introduced in version 2) 
+		 2.. CV CVVCV CVC CVC (prefixed) 
+		 2a. CV CVVCV CVC CVC V (with case vowel)  	 
+		 3.. CV CVVCV CVC CVC CVC (circumfixed) 
+		 3a. CV CVVCV CVC CVC CVC V 
+
+and the long patterns
+
+		1.. CVVCV CVC CVVCV CVC CVC (V) (without prefix;introduced in version 2) 
+		1a. CVVCV CVC CV CVVCV CVC CVC (V) 
+		1b. CVVCV CVC CV CVVCV CVC CVC CVC (V) 
+
+		2.. CV CVVCV CVC CVC CVVCV CVC CVC (V) (prefixed) 
+		2a. CV CVVCV CVC CVC CV CVVCV CVC CVC (V) 
+		2b. CV CVVCV CVC CVC CV CVVCV CVC CVC CVC (V) 
+
+		3.. CV CVVCV CVC CVC CVC CVVCV CVC CVC (V) (circumfixed) 
+		3a. CV CVVCV CVC CVC CVC CV CVVCV CVC CVC (V) 
+		3b. CV CVVCV CVC CVC CVC CV CVVCV CVC CVC CVC (V) 
+
+
+Very Short pronounless statements or sentences 
+==============================================
+
+Because pronounless phrases like "Halt!" "Stop!" "Sit!" and so on occur in 
+nearly all languages I thought of allowing in them in the IMAC or this language
+too. 
+
+So I thought of introducing a very short pattern even shorter than the abbreviated
+pattern, which should look like 
+
+			verb+suffix 
+
+Suffixes should be only allowed for this pattern and I think four different are more 
+than enough. 
+
+So the structure would look like 
+
+			CVVCV CV 
+
+and would allow 256*4 or 1024 possibilities of whom also a modest fraction would become common - 
+probably for commanding dogs.  
+
+
+
+
+
+
+
+
+
+
+ 
+
